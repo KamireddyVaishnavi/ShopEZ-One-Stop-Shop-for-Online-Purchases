@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "shopez",
+			"path": "../.."
+		},
+		{
+			"name": "shopez-server",
+			"path": "../../../Downloads/shopez-server"
+		}
+	],
+	"settings": {}
+}
